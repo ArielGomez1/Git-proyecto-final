@@ -61,5 +61,6 @@ for i in range(2):
 print(metascores)
 
 #diccionario = {'Titulo':titles, 'Año':years, 'Duracion':time, 'Raiting':imdb_ratings, 'Metascores':metascores, 'Votos':votes, 'recaudado':us_gross}
-#Tabla = pd.DataFrame(diccionario)
+#Lista_de_peliculas = pd.DataFrame(diccionario)
 #print(Tabla)
+#Lista_de_peliculas.to_csv('Lista de peliculas')
